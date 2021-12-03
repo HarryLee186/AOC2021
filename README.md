@@ -1,2 +1,2 @@
-- Doing using Laravel
+- Done using Laravel
 - Code is questionable at best, I predominantly just wanted to see how many days in a row I could get done
